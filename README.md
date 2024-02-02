@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ponbalaji2001&show_icons=true&locale=en&layout=compact" alt="ponbalaji2001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ponbalaji2001&show_icons=true&locale=en" alt="ponbalaji2001" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ponbalaji2001&show_icons=true&locale=en" alt="ponbalaji2001" /></p>
