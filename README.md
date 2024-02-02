@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ponbalaji S</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h1 align="left">Hi 👋, I'm Ponbalaji S</h1>
+<h3 align="left">A Passionate Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ponbalaji2001&label=Profile%20views&color=0e75b6&style=flat" alt="ponbalaji2001" /> </p>
 
 <P>Product Engineer Intern @ Kaar Technologies</p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ponbalaji486@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11S7NvTQrgTjc_K4Wm3T5Nnh6OIv4FiBi/view?usp=sharing](https://drive.google.com/file/d/11S7NvTQrgTjc_K4Wm3T5Nnh6OIv4FiBi/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/11S7NvTQrgTjc_K4Wm3T5Nnh6OIv4FiBi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
