@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ponbalaji S</h1>
-<h3 align="left">A Passionate Full Stack Developer</h3><img src="https://i.imgur.com/1raYT1M.png" alt="full stack dev" align="right" width="250" height="200"/>
+<h3 align="left">A Passionate Full Stack Developer</h3><img src="https://i.imgur.com/1raYT1M.png" alt="full stack dev" align="right" width="200" height="200"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ponbalaji2001&label=Profile%20views&color=0e75b6&style=flat" alt="ponbalaji2001" /> </p>
 <P>Product Engineer Intern @ Kaar Technologies</p>
 - 🔭 I’m currently working on **Web Development**
