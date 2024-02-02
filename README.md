@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **DSA, Spring Boot**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [my_repository](https://github.com/ponbalaji2001?tab=repositories)
 
