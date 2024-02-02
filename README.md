@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ponbalaji2001&label=Profile%20views&color=0e75b6&style=flat" alt="ponbalaji2001" /> </p>
 
 <P>Product Engineer Intern @ Kaar Technologies</p>
+![full stack developer image"](https://imgur.com/1raYT1M)
 <img src="https://imgur.com/1raYT1M" alt="full stack developer image"  align="right" width="80" height="160"/>
 - 🔭 I’m currently working on **Web Development**
 
