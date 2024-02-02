@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ponbalaji2001?tab=repositories](my_repository)
+- 👨‍💻 All of my projects are available at [my_repository](https://github.com/ponbalaji2001?tab=repositories)
 
 - 📫 How to reach me **ponbalaji486@gmail.com**
 
