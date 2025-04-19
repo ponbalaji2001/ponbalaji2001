@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ponbalaji S</h1>
-<h3 align="left">A Passionate Software Developer</h3><img src="https://i.imgur.com/1raYT1M.png" alt="full stack dev" align="right" width="200" height="200"/>
+<h3 align="left">A Passionate Software Developer</h3>
 
 <P>Associate Product Engineer @ Kaar Technologies</p>
 
