@@ -3,7 +3,7 @@
 
 <P>Associate Product Engineer @ Kaar Technologies</p>
 
-- 🔭 I’m currently working on **Web Development & Mobile App Development**
+- 🔭 I’m currently working on **Web Development Development**
 
 - 🌱 I’m currently learning **DSA**
 
